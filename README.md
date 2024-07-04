@@ -4,7 +4,9 @@
 This project is a command-line application written in [C], designed to compare card combinations between two players and determine the winner. The program evaluates the players' hands based on a standard set of rules and the five community cards available on the table.
 
 Run the program in the command line:
-  ./poker [number of players]
+  
+    ./poker [number of players]
+
 (if the number of players is not specified it defaults to 2)
 
 Input and Output Format
